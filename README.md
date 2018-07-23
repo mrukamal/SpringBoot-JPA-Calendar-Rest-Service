@@ -11,7 +11,8 @@ Required
 * 	Maven.
 
 Installation and setup
-* 	In the Eclipse IDE, import the attached project as a Maven project.
+*   Unzip the RestAPICalendar.zip to a directory on the computer.
+* 	In the Eclipse IDE, import the project files as a Maven project.
 * 	The included pom.xml will download and setup all dependencies.
 * 	Once download is complete, run the project by right clicking and selecting either Run As or Debug As and selecting "Spring Boot App"
 * 	Once the project is running in Eclipse, use a tool like Google Postman to call the API and create calendar and events.
